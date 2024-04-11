@@ -1,0 +1,60 @@
+{
+    "Traid":{
+        "long":[
+            "long",
+            "лонг"
+        ],
+        "short":[
+            "short",
+            "шорт"
+        ]
+    },
+    "Leverage": [
+        "levera",
+        "плеч"
+    ],
+    "Margin_type": [
+        "cros",
+        "крос"
+    ],
+    "Entrance_point": {
+        "tvh":[
+            "вход",
+            "entr",
+            "заход",
+            "tvh",
+            "твх"
+        ],
+        "lvh":[
+            "ордер",
+            "лимит",
+            "lvh",
+            "лвх"
+        ],
+        "rvh":[
+            "рынок"
+        ]
+    },
+    "Take_profit": [
+        "тейк",
+        "take",
+        "profit",
+        "профит",
+        "Цели",
+        "фиксир",
+        "цели",
+        "цель",
+        "tp",
+        "target"
+    ],
+    "Stop_loss": [
+        "stop",
+        "st",
+        "sl",
+        "стоп",
+        "ст",
+        "лос",
+        "los"
+    ],
+    "Statistics_days_for_checking": 3
+}

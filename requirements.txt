@@ -1,0 +1,9 @@
+telebot
+telethon
+asyncio
+db-sqlite3
+sqlalchemy
+requests
+ccxt
+beautifulsoup4
+psycopg2
